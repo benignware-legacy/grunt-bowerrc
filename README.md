@@ -39,7 +39,7 @@ grunt.initConfig({
 
 #### options.command
 Type: `String`
-Default value: `',  '`
+Default value: `'install'`
 
 The bower command to be run. Alternatively you can provide the command as cli option, for example `grunt bowerrc --update`.
 
