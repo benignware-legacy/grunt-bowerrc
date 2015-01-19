@@ -1,0 +1,12 @@
+{
+  "name": "grunt-bowerrc-test",
+  "version": "0.0.1",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "^1.10.2",
+    "bootstrap": "^3.3.1"
+  }
+}
